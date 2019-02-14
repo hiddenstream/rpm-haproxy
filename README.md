@@ -1,6 +1,6 @@
 [![Github All Releases](https://img.shields.io/github/downloads/DBezemer/rpm-haproxy/total.svg)](https://github.com/DBezemer/rpm-haproxy/releases)
 
-# A Recipe for a HAProxy 1.8 stable version RPM on CentOS / RHEL / Amazon Linux
+# A Recipe for a HAProxy 1.9 stable version RPM on CentOS / RHEL / Amazon Linux
 
 Perform the following on a build box as a regular user.
 
