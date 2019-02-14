@@ -11,9 +11,9 @@ Perform the following on a build box as a regular user.
 ## Checkout this repository
 
     cd /opt
-    git clone https://github.com/DBezemer/rpm-haproxy.git 
+    git clone https://github.com/hiddenstream/rpm-haproxy.git 
     cd ./rpm-haproxy
-    git checkout 1.8
+    git checkout 1.9
 
 ## Build using makefile
     make
